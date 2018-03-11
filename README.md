@@ -15,4 +15,4 @@ As of February 2018 it is fully working, with no known bugs.
 
 # Credits
 StackOverflow 
-Github
+Github - @macr1408
