@@ -1,4 +1,14 @@
-# WhatsApp-Spammer
+DEAD
+
+
+
+
+
+
+
+
+
+#WhatsApp-Spammer
 This is a WhatsApp spam bot that is used on web.whatsapp.com
 As of February 2018 it is fully working, with no known bugs.
 # How to use.
